@@ -1,6 +1,6 @@
 # Python Basics for Data Science
 
-A comprehensive collection of Jupyter Notebooks covering essential Python concepts for data science and software development.
+A comprehensive collection of Jupyter Notebooks covering essential Python concepts for data science.
 
 ## 📚 Topics Covered
 
@@ -10,7 +10,7 @@ A comprehensive collection of Jupyter Notebooks covering essential Python concep
 4. **File Handling, Serialization & Deserialization** - Working with files, JSON, CSV, and data formats
 5. **Exception Handling** - Error management, try-except blocks, and custom exceptions
 6. **Namespaces & Decorators** - Scope, namespaces, and function decorators
-7. **Extra Topics** - Additional advanced concepts and practical applications
+7. **Extra Topics** - Additional topics like recursion, iterators and generators
 
 ## 🚀 Quick Start
 
