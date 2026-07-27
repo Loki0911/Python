@@ -10,7 +10,8 @@ A comprehensive collection of Jupyter Notebooks covering essential Python concep
 4. **File Handling, Serialization & Deserialization** - Working with files, JSON, CSV, and data formats
 5. **Exception Handling** - Error management, try-except blocks, and custom exceptions
 6. **Namespaces & Decorators** - Scope, namespaces, and function decorators
-7. **Extra Topics** - Additional topics like recursion, iterators and generators, git
+7. **Extra Topics** - Additional topics like recursion, iterators and generators, git commands
+
 
 ## 🚀 Quick Start
 
